@@ -1,8 +1,8 @@
 # lamp-install-guide
 # https://www.digitalocean.com/community/tutorials/how-to-install-lamp-on-ubuntu-14-04-quickstart
-LAMP installation on linux
-Step 1: Update apt-get package lists
-sudo apt-get update
+LAMP installation on linux <br>
+Step 1: Update apt-get package lists<br>
+sudo apt-get update<br>
 Step 2: Install Apache, MySQL, and PHP packages
 sudo apt-get -y install apache2 mysql-server php5-mysql php5 libapache2-mod-php5 php5-mcrypt
 Step 3: Create MySQL database directory structure
