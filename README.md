@@ -18,3 +18,8 @@ DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm<br>
 
 Restart Apache to put the change into place:<br>
 sudo service apache2 restart<br>
+
+
+=====================================================<br>
+sudo apt-get update<br>
+sudo apt-get install phpmyadmin<br>
