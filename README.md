@@ -23,3 +23,7 @@ sudo service apache2 restart<br>
 =====================================================<br>
 sudo apt-get update<br>
 sudo apt-get install phpmyadmin<br>
+
+
+#How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 16.04
+#https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
