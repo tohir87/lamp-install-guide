@@ -27,3 +27,6 @@ sudo apt-get install phpmyadmin<br>
 
 #How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 16.04
 #https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
+
+#Installing PHP7 on ubuntu 16
+#https://www.vultr.com/docs/how-to-install-and-configure-php-70-or-php-71-on-ubuntu-16-04
