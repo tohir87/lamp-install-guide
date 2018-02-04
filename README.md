@@ -30,3 +30,6 @@ sudo apt-get install phpmyadmin<br>
 
 #Installing PHP7 on ubuntu 16
 #https://www.vultr.com/docs/how-to-install-and-configure-php-70-or-php-71-on-ubuntu-16-04
+
+# Adding User
+https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart
