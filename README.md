@@ -37,5 +37,8 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ub
 # Install MySQL on CentOs
 https://www.linode.com/docs/databases/mysql/how-to-install-mysql-on-centos-7
 
-# Moving data Directory
+# Moving data Directory CentOS
 https://www.digitalocean.com/community/tutorials/how-to-change-a-mysql-data-directory-to-a-new-location-on-centos-7
+
+# Moving data Directory Ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-move-a-mysql-data-directory-to-a-new-location-on-ubuntu-16-04
