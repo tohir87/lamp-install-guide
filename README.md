@@ -42,3 +42,6 @@ https://www.digitalocean.com/community/tutorials/how-to-change-a-mysql-data-dire
 
 # Moving data Directory Ubuntu
 https://www.digitalocean.com/community/tutorials/how-to-move-a-mysql-data-directory-to-a-new-location-on-ubuntu-16-04
+
+## import mysql dump file
+mysql -u username -p database_name < file.sql
