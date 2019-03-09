@@ -48,3 +48,6 @@ mysql -u username -p database_name < file.sql
 
 ## Adminstering Wordpress on Nginx
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lemp-on-ubuntu-16-04
+
+## Install Ioncube on server
+https://www.tecmint.com/install-ioncube-loader-in-centos-7/
