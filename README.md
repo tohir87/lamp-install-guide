@@ -51,3 +51,6 @@ https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-l
 
 ## Install Ioncube on server
 https://www.tecmint.com/install-ioncube-loader-in-centos-7/
+
+#### Using Supervisor 
+https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps
