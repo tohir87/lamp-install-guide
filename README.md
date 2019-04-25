@@ -54,3 +54,6 @@ https://www.tecmint.com/install-ioncube-loader-in-centos-7/
 
 #### Using Supervisor 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps
+
+#### Cannot verify certificate from issuer
+Simply download cacert.pem from https://curl.haxx.se/docs/caextract.html and update openssl_ca on php.ini.
