@@ -57,3 +57,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-super
 
 #### Cannot verify certificate from issuer
 Simply download cacert.pem from https://curl.haxx.se/docs/caextract.html and update openssl_ca on php.ini.
+
+
+#### Search for anomally in a sitemap xml document
+xmllint --xpath "//*[local-name()='video' and not(*[local-name()='thumbnail_loc'])]/parent::*[local-name()='url']/*[local-name()='loc']/text()" sitemap.xml
